@@ -5,6 +5,14 @@ body {
     padding: 0;
 }
 
+/* Logo Styles */
+.logo a {
+    color: #ffffff; /* White color */
+    text-decoration: none;
+    font-size: 28px;
+    font-weight: bold;
+}
+
 /* Container */
 .container {
     width: 80%;
